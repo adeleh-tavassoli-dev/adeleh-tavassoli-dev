@@ -1,4 +1,4 @@
-Hi, I'm Adeleh Tavassoli 👋
+Hi, I'm Adeleh Tavassoli 
 
 Aspiring Front-End Developer
 
@@ -24,4 +24,4 @@ More projects coming soon!
 I'm currently building projects to strengthen my front-end development skills. Check back soon to see my work.
 
 
-Learning, building, and improving one project at a time. ✨
+Learning, building, and improving one project at a time. 
