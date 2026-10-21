@@ -4,13 +4,13 @@ Aspiring Front-End Developer
 
 I'm learning to build modern, responsive, and user-friendly websites using web technologies.
 
-- 🌱 Currently learning JavaScript and React
-- 💻 Practicing HTML, CSS, JavaScript, and Git
-- 🎯 Working on personal projects to improve my front-end development skills
-- 📚 Always learning and exploring new technologies
-- 📫 Contact: Add your professional email here
+-  Currently learning JavaScript and React
+-  Practicing HTML, CSS, JavaScript, and Git
+-  Working on personal projects to improve my front-end development skills
+-  Always learning and exploring new technologies
+-  Contact: Add your professional email here
 
-🛠️ Technologies & Tools
+ Technologies & Tools
 
 - HTML5
 - CSS3
